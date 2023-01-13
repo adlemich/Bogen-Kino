@@ -1,0 +1,6 @@
+PySimpleGUI
+python-vlc
+numpy
+pyaudio
+opencv-python
+pygame
